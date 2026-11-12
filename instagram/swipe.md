@@ -159,8 +159,8 @@
 
 **Sample:** 30 reels from 5 accounts, about 6 per account, read from the
 cover text on Reels-tab screenshots, not the spoken first line. Dropped for
-size: @oliverchangmd (572K) and @thedallasaesthetician (396K). Not yet
-collected: @austinplasticsurgeon, @drlee90210, @nycgyno.
+size (over ~135K, 10x Nuveau): @oliverchangmd (572K),
+@thedallasaesthetician (396K), @austinplasticsurgeon, @drlee90210, @nycgyno.
 
 **Baselines:** median of each account's visible, non-pinned reels. Pinned
 reels can be months old and have had longer to collect views, so their
