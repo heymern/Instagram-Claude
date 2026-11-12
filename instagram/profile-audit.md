@@ -1,22 +1,23 @@
 # Instagram profile audit (Nov 2026)
 
-Scored on the 12-part rubric (100 points). "Recent activity" (10 points) can't be
-seen in a screenshot, so each account is scored out of the other 90.
+Scored on the 12-part rubric (100 points). Recent activity is scored from the
+last post dates you gave me (as of Nov 12). 2 of those 10 points are held back
+on every account until you confirm comments on the latest post were answered.
 
 | Account | Now | After the rewrites |
 |---|---|---|
-| @nuveauplasticsurgery | 53/90 | ~74/90 |
-| @thefoundationmethodbyerica | 54/90 | ~75/90 |
-| @dr.lee_htx | 45/90 | ~71/90 |
-| @laserexperthouston (Elena) | 43/90 | ~71/90 |
-| @luxeskinbymari (Maria) | 39/90 | ~70/90 |
+| @nuveauplasticsurgery | 61/100 | ~82/100 |
+| @thefoundationmethodbyerica | 62/100 | ~83/100 |
+| @dr.lee_htx | 53/100 | ~79/100 |
+| @laserexperthouston (Elena) | 50/100 | ~78/100 |
+| @luxeskinbymari (Maria) | 44/100 | ~75/100 |
 
 ---
 
-## @nuveauplasticsurgery — 53/90
+## @nuveauplasticsurgery — 61/100
 
 ```
-name field        10/12  Houston + plastic surgeon: good. Misses "med spa"
+name field        10/12  Houston + plastic surgeon: good. Dr. Lee's name isn't in it
 bio first line     4/12  Dr. Lee's name and credentials, not who it's for
 bio body           3/8   "River Oaks / Plastic Surgery + Medical Aesthetics" list, no proof
 pinned three       5/10  OR clip + Dr. Lee Q&A are good; Booking Policy wastes a slot
@@ -26,14 +27,14 @@ grid (row 1)       4/8   Booking Policy card is unreadable as a thumbnail
 photo              5/6   Logo is right for a practice account
 handle             4/6   Fine, but people spell it "nouveau"
 category/contact   4/6   Contact button works; category not showing
-recent activity    ?/10  Can't see
+recent activity    8/10  Posted 2 days ago (collab with Dr. Lee)
 stories            6/6   Story up now
 ```
 
-**1. Bio** (126 characters)
+**1. Bio** (138 characters)
 ```
-Plastic surgery + med spa in River Oaks, Houston
-Breast, body + face surgery with board-certified @dr.lee_htx
+Breast, body + face surgery + med spa in River Oaks
+Board-certified plastic surgeon Dr. Edward Lee, MD, FACS @dr.lee_htx
 Book a consult ↓
 ```
 Keep the address line; it comes from your contact settings and doesn't count.
@@ -54,11 +55,14 @@ Keep the address line; it comes from your contact settings and doesn't count.
 **5. Highlights** (order): B&A · Surgery · Med Spa · Specials · Team · Policies.
 Fold Morpheus8, Injectables and OR into Surgery or Med Spa.
 
-**6. Name** (optional): `Nuveau | Houston Plastic Surgery & Med Spa`
+**6. Name.** Keep Dr. Lee in it, and lead with surgery, not the med spa. Pick one:
+- `Nuveau | Dr. Lee, Houston Plastic Surgeon` (recommended: brand, surgeon, city, specialty)
+- `Dr. Edward Lee | Nuveau Plastic Surgery`
+- Keep the current name. The bio above names Dr. Lee either way.
 
 ---
 
-## @thefoundationmethodbyerica — 54/90
+## @thefoundationmethodbyerica — 62/100
 
 ```
 name field        10/12  Name + "Houston Injector": good
@@ -71,7 +75,7 @@ grid (row 1)       6/8   Text covers, readable
 photo              4/6   Logo text over the photo shrinks her face
 handle             4/6   Long but sayable
 category/contact   2/6   Category is "Entrepreneur"; no Call/Book button
-recent activity    ?/10
+recent activity    8/10  Posted 6 days ago. Post again by Nov 13 to stay inside 7 days
 stories            6/6   Story up now
 ```
 
@@ -98,7 +102,7 @@ Move the phone number to a Call button (step 3).
 
 ---
 
-## @dr.lee_htx — 45/90
+## @dr.lee_htx — 53/100
 
 ```
 name field         5/12  Credentials, no words people search
@@ -111,7 +115,7 @@ grid (row 1)       3/8   Two text-heavy policy cards
 photo              6/6   Great headshot
 handle             4/6   Dot + underscore is hard to say out loud
 category/contact   6/6   Plastic Surgeon + Call button
-recent activity    ?/10
+recent activity    8/10  Collab post with Nuveau 2 days ago
 stories            0/6   No story up
 ```
 
@@ -142,7 +146,7 @@ If you can, name who gave the award (e.g. "Houstonia Top Docs 2025"). It's more 
 
 ---
 
-## @laserexperthouston (Elena) — 43/90
+## @laserexperthouston (Elena) — 50/100
 
 ```
 name field         4/12  Name + LME only
@@ -155,7 +159,7 @@ grid (row 1)       5/8   First cover is great; third has no text
 photo              6/6   Great headshot
 handle             6/6   Searchable and sayable
 category/contact   1/6   No category, no Call button
-recent activity    ?/10
+recent activity    7/10  Last post Nov 5, exactly 7 days ago
 stories            0/6   No story up
 ```
 
@@ -183,7 +187,7 @@ Book ↓
 
 ---
 
-## @luxeskinbymari (Maria) — 39/90
+## @luxeskinbymari (Maria) — 44/100
 
 ```
 name field         4/12  Credentials only
@@ -196,7 +200,7 @@ grid               7/8   Clean, readable covers
 photo              6/6   Great headshot
 handle             4/6   "mari" vs "Maria" trips people up
 category/contact   1/6   No category or contact button
-recent activity    ?/10
+recent activity    5/10  Last post Nov 4, 8 days ago
 stories            0/6   No story up
 ```
 
@@ -223,10 +227,12 @@ Book a visit ↓
 
 ---
 
-## Why none of these reach 90
+## Why none of these reach 100
 
 What's left isn't a rewrite:
-- **Recent activity:** post weekly and answer comments.
+- **Recent activity:** post at least weekly and answer comments. Collab posts
+  with @nuveauplasticsurgery (like the Dr. Lee one) count for both accounts, so
+  they're the cheapest way to keep Elena's and Maria's grids fresh.
 - **Stories:** Dr. Lee, Elena and Maria need a story up most days.
 - **Proof posts:** the before-and-after pins assume the content exists. If it doesn't, make it first.
 
