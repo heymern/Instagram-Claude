@@ -82,7 +82,7 @@
   "breast augmentation"; "boob job" only occasionally, in a casual hook.
 - **Fine depending on who's speaking:** "snatched", "glow-up", "obsessed",
   "game-changer", "perfect", "life-changing", "elevate". These suit the staff
-  and med spa voices more than Dr. Lee's.
+  and med spa voices more than Dr. Lee's. Erica, Elena and Maria say "snatched".
 - **Words I would never say out loud:** "guaranteed", "risk-free". AI slop:
   "delve", "unlock", "transform", "journey", "radiant", "embark".
 - **Do I swear:** No.
@@ -105,10 +105,10 @@ Every script names its speaker. Match the voice to the person.
   number-led: how a treatment works, how it compares with the old way, then the
   offer and the price. Uses "help you look and feel your best" and "come in and
   see us". (Example 2 above is Randy.)
-- **Erica**, RN nurse injector. Injectables.
+- **Erica**, RN nurse injector. Injectables. Casual; says "snatched".
 - **Lauren**, nurse injector (starting soon). Injectables.
 - **Elena and Maria**, estheticians. Facials, HydraFacial, Korean beauty,
-  skin treatments.
+  skin treatments. Casual; say "snatched".
 - **Beatrice**, patient coordinator for Dr. Lee. Consultations and what to
   expect.
 - **Cassie**, surgical coordinator. Surgery scheduling, prep and recovery
